@@ -44,6 +44,7 @@ c.addNewAbility("Dancing");
 c.showAbilities();
 p.showAbilities();
 
+// Added 'push to parent ability array' in the child's addNewAbility function
 
 
 
