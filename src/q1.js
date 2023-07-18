@@ -32,4 +32,9 @@ swap(x, y);
 
 module.exports = swap;
 
+// I added variable "z" to help me test whether the function will return me a -1 for non-numeric value when coded with console.log(swap (x, z));
+
+console.log(swap (x, z));
+
+
 
